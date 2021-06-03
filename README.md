@@ -11,3 +11,9 @@
 	$ git remote add origin git@github.com:tchung1970/hello.git
 	$ git branch -M main
 	$ git push -u origin main
+
+## simple version
+	$ vi README.md            
+	$ git add .
+	$ git commit -m "reformat"
+	$ git push

@@ -25,3 +25,6 @@
 
 ### one line version
 	$ git add .; git commit -m .; git push
+
+### test
+	$ git add .; git commit -q; git push

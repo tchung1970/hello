@@ -1,5 +1,5 @@
 <html>
-<pre>
+<code>
 <b>create a new repository on the command line</b>
 echo "# hello" >> README.md
 git init
@@ -13,5 +13,5 @@ git push -u origin main
 git remote add origin git@github.com:tchung1970/hello.git
 git branch -M main
 git push -u origin main
-</pre>
+</code>
 </html>

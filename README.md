@@ -22,3 +22,6 @@
 	$ git add .
 	$ git commit -m "..."
 	$ git push
+
+### one line version
+	$ git add .; git commit -m "..."; git push

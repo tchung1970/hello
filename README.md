@@ -20,5 +20,5 @@
 ### simple version
 	$ vi README.md            
 	$ git add .
-	$ git commit -m "reformat"
+	$ git commit -m "..."
 	$ git push

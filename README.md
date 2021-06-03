@@ -20,11 +20,8 @@
 ### simple version
 	$ vi README.md            
 	$ git add .
-	$ git commit -m "..."
+	$ git commit -m .
 	$ git push
 
 ### one line version
-	$ git add .; git commit -m "..."; git push
-
-### will it work?
 	$ git add .; git commit -m .; git push

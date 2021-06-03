@@ -1,5 +1,8 @@
-# single #
-## double ##
+# header 1
+## header 2
+### header 3
+#### header 4
+
 ### create a new repository on the command line
 	$ echo "# hello" >> README.md
 	$ git init
